@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<cards>
+	<card id="8e2541ba-76b9-4a91-bdc3-ee166c1108e0" name="Thief" size="PlayingCard">
+		<property name="Quantity" value="4" />
+		<property name="Subtitle" value="Ringleader" />
+		<property name="Text" value="Steal 2M ISK from the Coffers." />
+		<property name="Subtext" value="Ringleaders may not be abducted." />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="380b0391-2042-4f4e-8d2d-d1c519189f8c" name="Hacker" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Duplicate the action of any opponent's Specialist in Night One of their Hideout." />
+		<property name="Subtext" value="The chosen specialist may be in a team." />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="a6fbb4ac-da27-48e1-a461-0a490fb1244a" name="Con Man" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Steal 1M ISK from the Coffers and 1M ISK from an opponent's Stash." />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="6db1c216-394d-43be-bafb-e2ac609ce7f7" name="Snitch" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Reorder the cards in any Hideout.  Then steal 1M ISK from the Coffers." />
+		<property name="Subtext" value="Cards in the refresh area are not in a hideout" />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="7d045b4b-1e5b-44e4-be66-6fab521618b2" name="Fugitive" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Draw the Specialist on the top of the Discard Pile and add it to your hand." />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="090e886e-34f8-4a6b-9e42-a136439c3a4e" name="Femme Fatale" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="After playing this Specialist you may Advance Time and play another Specialist immediately." />
+		<property name="Subtext" value="Cards in your refresh area do not return to your hand until the end of your turn." />
+		<property name="SkillType" value="Speed" />
+	</card>
+	<card id="a3370d8f-c6e4-4929-ad3b-cfc28651cad6" name="Mastermind" size="PlayingCard">
+		<property name="Quantity" value="4" />
+		<property name="Subtitle" value="Ringleader" />
+		<property name="Text" value="Draw three Specialists. Choose one to add to your hand, and discard the other two." />
+		<property name="Subtext" value="Ringleaders may not be abducted" />
+		<property name="SkillType" value="Brain" />
+	</card>
+	<card id="b06b378a-a76a-4d78-b7f7-61c6b9ac1392" name="Blackmailer" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Swap a completed Job card from your Stash for a completed Job card of your choice in an opponent's Stash." />
+		<property name="SkillType" value="Brain" />
+	</card>
+	<card id="f801327f-1dec-4cf1-9549-e724b4a9a956" name="Counterfeiter" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Steal 1M ISK from every opponent's Stash." />
+		<property name="SkillType" value="Brain" />
+	</card>
+	<card id="883484ab-1af4-4e38-8eb6-bb8a6de4b674" name="Fixer"
+</cards>

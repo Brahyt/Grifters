@@ -1,0 +1,18 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<game xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	name="Grifters - The Dystopian Universe"
+	id="a383f475-2c20-47c7-9a79-4c2b57467775"
+	octgnVersion="3.1.162.361"
+	scriptVersion="3.1.0.2"
+	version="0.0.0.1"
+	markersize="NEED VALUE"
+	tags="Grifters"
+	description="Grifters: Description here!"
+	seturl="NEED VALUE"
+	gameurl="NEED VALUE"
+	authors="Brahyt"
+	iconurl="NEED VALUE">
+	<scripts>
+		<script src="scripts/actions.py" />
+	</scripts>
