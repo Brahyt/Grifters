@@ -52,5 +52,59 @@
 		<property name="Text" value="Steal 1M ISK from every opponent's Stash." />
 		<property name="SkillType" value="Brain" />
 	</card>
-	<card id="883484ab-1af4-4e38-8eb6-bb8a6de4b674" name="Fixer"
+	<card id="883484ab-1af4-4e38-8eb6-bb8a6de4b674" name="Fixer" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Draw two Specialists, choose one to add to your hand and discard the other.  Then steal 1M ISK from the coffers." />
+		<property name="SkillType" value="Brain" />
+	</card>
+	<card id="33626b3e-3c8a-47b8-a15a-de2c92f6126d" name="Fall Guy" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Reveal a Specialist from your hand and immediately Duplicate its action. Then return it to your hand." />
+		<property name="SkillType" value="Brain" />
+	</card>
+	<card id="be00df53-417c-4e3f-8e63-b3910090bfdc" name="Protege" size="PlayingCard">
+		<property name="Quantity" value="4" />
+		<property name="Text" value="You may Duplicate the action of a Specialist in your Hideout that is not in a Team." />
+		<property name="Subtext" value="Cards in the refresh area are not in a hideout" />
+		<property name="Skilltype" value="Brain" />
+	</card>
+	<card id="2d61aa55-bc2e-433b-87ae-d0c4d46b8f58" name="Pickpocket" size="PlayingCard">
+		<property name="Quantity" value="4" />
+		<property name="Subtitle" value="Ringleader" />
+		<property name="Text" value="Steal 2M ISK from an opponent's Stash" />
+		<property name="Subtext" value="Ringleaders may not be abducted" />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="43575bbb-45c1-4f81-a9f0-9279b4083f62" name="Enforcer" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Draw one Specialist and Abduct one random Specialist from an opponent's hand. Choose one to keep and give the other to your chosen opponent." />
+		<property name="Subtext" value="Ringleaders may not be abducted." />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="206ad80e-8812-413f-9732-52118f93238c" name="Thug" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Team up a card with the Thug.  Steal 1M ISK from every opponent's Stash for each Specialist in their Hideout that has the same Skill as that card and is not part of a Team." />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="1cc1f1e1-ba02-4e73-8bb1-699982612356" name="Middle Man" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Choose a Specialist in your Refresh Area. Team up that Specialist with the Middle Man and immediately take its action." />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="19482e1d-18dd-4919-9c30-3f85b0f7e0aa" name="Wheelman" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Choose a Team in your Hideout. Return all but one Specialist from that Team to your hand." />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="a2a42245-c05b-46a8-8cc4-b2e7b1d59f4d" name="Dirty Cop" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Steal 1M ISK from every opponent's Stash for each Team in their Hideout" />
+		<property name="Skilltype" value="Brawn" />
+	</card>
+	<card id="03ef93ca-66cf-4bf9-b7cb-0f8d959e5edd" name="Inside Man" size="PlayingCard">
+		<property name="Quantity" value="3" />
+		<property name="Text" value="Abduct any Specialist in an opponent's Hideout, and immediately play that Specialist. Replace the Abducted Specialist with this card." />
+		<property name="Subtext" value="Acts as any single skill type in a team. Ringleaders may not be abducted. This card may not be duplicated." />
+		<property name="Skilltype" value="any" />
+	</card>
 </cards>
