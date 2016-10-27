@@ -6,13 +6,20 @@
 	octgnVersion="3.1.162.361"
 	scriptVersion="3.1.0.2"
 	version="0.0.0.1"
-	markersize="NEED VALUE"
+	markersize="NEEDVALUE"
 	tags="Grifters"
 	description="Grifters: Description here!"
-	seturl="NEED VALUE"
-	gameurl="NEED VALUE"
+	seturl="NEEDVALUE"
+	gameurl="NEEDVALUE"
 	authors="Brahyt"
-	iconurl="NEED VALUE">
+	iconurl="NEEDVALUE">
 	<scripts>
 		<script src="scripts/actions.py" />
 	</scripts>
+	<card back="NEEDVALUE" front="NEEDVALUE" width="NEEDVALUE" height="NEEDVALUE" cornerRadius="NEEDVALUE">
+		<property name="Quantity" type="String" hidden="false" ignoreText="False" />
+		<property name="Subtitle" type="String" hidden="false" ignoreText="False" />
+		<property name="Text" type="String" hidden="false" ignoreText="False" />
+		<property name="Subtext" type="String" hidden="false" ignoreText="False" />
+		<property name="Skilltype" type="String" hidden="false" ignoreText="False" />
+	</card>
